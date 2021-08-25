@@ -1,0 +1,6 @@
+<!--?xml version="1.0" ?-->
+<!DOCTYPE test [<!ENTITY call SYSTEM "http://127.0.0.1"> ]>
+ <test>
+  <name> call </name>
+  <example>&call;</example>
+ </test>
