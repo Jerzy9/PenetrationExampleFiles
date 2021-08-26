@@ -1,0 +1,10 @@
+<html>
+<head>
+</head>
+<body>
+<p>5 * 5 = </p> 
+<th:block th:with="variable = 5, controllerVar = 5, var = ${variable * controllerVar}">
+    <p th:text="${var}"></p>
+</th:block>
+</body>
+</html>

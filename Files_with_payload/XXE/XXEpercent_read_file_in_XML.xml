@@ -1,0 +1,6 @@
+<!--?xml version="1.0" ?-->
+<!DOCTYPE test [<!ENTITY % ex SYSTEM "file:///etc/passwd"> %ex; ]>
+ <test>
+  <name> Linux file </name>
+  <example> </example>
+ </test>
